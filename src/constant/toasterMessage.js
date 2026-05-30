@@ -1,0 +1,15 @@
+export const TRANSACTION_SUCCESS_MSG = "Transaction Executed Successfully."
+export const CLAIM_SUCCESS_MSG = "Payment Claim Successfully."
+export const TRANSACTION_ERROR_MSG = "Transaction Failed."
+export const USER_REJECT_TRANSACTION_MSG = "User Reject Transaction."
+export const BALANCE_ERROR_MSG = "You don't have enough Balance"
+export const GENERAL_ERROR_MSG = "Try after sometimes."
+export const USER_REJECTED_TRANSACTION_MSG = "Transaction Rejected."
+export const PREPARE_ERROR_MSG = "Reverted by RPC."
+export const REQUEST_TRANSACTION_SUCCESS_MSG = "Send Request Successfully."
+export const INITIATE_TRACKED_PAYMENT_SUCCESS = 'Success Tracked Payment'
+export const DISPUTE_RAISE_SUCCESSFULLY = "Dispute raised Successfully"
+export const COPY_CLIPBOARD_SUCCESS = 'Address Copied To Clipboard !'
+export const DISPUTE_RESOLVED_SUCCESS = 'Dispute Resolved Successfully'
+export const SELF_PAYMENT_WARNING_MSG = 'You cannot send payment to your own wallet address.'
+export const CONTRACT_ADDRESS_WARNING_MSG = 'The recipient is a contract address. Sending funds to a contract that is not designed to receive tokens may result in permanent loss of funds.'

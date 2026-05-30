@@ -1,0 +1,10 @@
+[
+    {
+        "address": "0x3Ca0f7D495ADD04d74648F34037d51637D3f3e92",
+        "chainId": 11155111,
+        "decimals": 18,
+        "logoURI": "/asset/tokenImages/stb.png",
+        "name": "STB1",
+        "symbol": "STB1"
+    }
+]

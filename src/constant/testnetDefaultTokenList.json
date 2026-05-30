@@ -1,0 +1,10 @@
+[
+    {
+        "address": "0x20c0000000000000000000000000000000000000",
+        "chainId": 4217,
+        "decimals": 18,
+        "logoURI": "/asset/tokenImages/eth.png",
+        "name": "PathUSD",
+        "symbol": "PUSD"
+    }
+]
